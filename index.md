@@ -12,6 +12,6 @@ title="Graduation 2019. Photo by M Benesch."
 style="float: right; width: 40%; max-width: 300px; padding-left: 15px; padding-bottom: 15px;"
 />
 
-I'm a student at the University of Freiburg in Germany, working on my MSc in Economics and Politics. I'm interested in the provision of public goods, especially the political economy thereof and its relation to economic growth.
+I'm a student at the University of Freiburg in Germany, working on my MSc in Economics and Politics. I'm interested in the provision of public goods (especially infrastructure) and the related political economy.
 
 Welcome to my web emporium—there's not much here yet, but I'll be adding things as I have time.
