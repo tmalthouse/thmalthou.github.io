@@ -5,4 +5,4 @@
 layout: home
 ---
 
-testing testing
+Coming soon...
