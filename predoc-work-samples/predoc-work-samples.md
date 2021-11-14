@@ -10,7 +10,7 @@ I've collected some samples of previous work here (both in economics and physics
 
 [Reed Thesis on numerical methods in quantum mechanics (Physics)](/assets/reedthesis.pdf#page=15)
 
-[Empirical measurement of muon lifetime (Phyics)](/assets/muons.pdf)
+[Empirical measurement of muon lifetime, incl. Monte-Carlo methods and discussion of statistical estimators (Phyics)](/assets/muons.pdf)
 
 [Literature review on economic concentration in Georgia](/assets/georgia_institutions.pdf)
 
@@ -33,7 +33,7 @@ I've collected some samples of previous work here (both in economics and physics
 
 [Thesis code to calculate equilibrium states of open quantum systems using machine learning methods (Physics, Python)](/assets/reedthesis.pdf#page=51)
 
-[Code to perform a complex, time-dependent merge on procurement data (Python)](/assets/georgiafirmmerge.pdf)
+[Code to perform a complex, time-dependent merge on procurement data (Python)](georgia-merge)
 
 [Code to calculate firm and agency burdens for a procurement project (Stata)](workload-duration/)
 
