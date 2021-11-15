@@ -10,7 +10,7 @@ I've collected some samples of previous work here (both in economics and physics
 
 [Reed Thesis on numerical methods in quantum mechanics (Physics)](/assets/reedthesis.pdf#page=15)
 
-[Empirical measurement of muon lifetime, incl. Monte-Carlo methods and discussion of statistical estimators (Phyics)](/assets/muons.pdf)
+[Empirical measurement of muon lifetime, incl. Monte-Carlo methods and discussion of statistical estimators (Physics)](/assets/muons.pdf)
 
 [Literature review on economic concentration in Georgia](/assets/georgia_institutions.pdf)
 
@@ -37,4 +37,4 @@ I've collected some samples of previous work here (both in economics and physics
 
 [Code to calculate firm and agency burdens for a procurement project (Stata)](workload-duration/)
 
-[DiD code, using Estout to report regression results](did-threelevel)
+[DiD code, using Estout to report regression results (Stata)](did-threelevel)
