@@ -19,4 +19,3 @@ I am an economic historian and political economist, currently working as a predo
 - The Rust Belt's deindustrialization.
 - How public money is used to bolster incumbents in local government.
 - and more...
-
